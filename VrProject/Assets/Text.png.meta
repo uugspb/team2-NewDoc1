@@ -1,0 +1,3168 @@
+fileFormatVersion: 2
+guid: 38944392d31eee746b35964fb840fcf2
+timeCreated: 1459653321
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Text_18
+    21300002: Text_19
+    21300004: Text_20
+    21300006: Text_21
+    21300008: Text_22
+    21300010: Text_23
+    21300012: Text_24
+    21300014: Text_25
+    21300016: Text_26
+    21300018: Text_27
+    21300020: Text_28
+    21300022: Text_29
+    21300024: Text_30
+    21300026: Text_31
+    21300028: Text_32
+    21300030: Text_33
+    21300032: Text_34
+    21300034: Text_35
+    21300036: Text_36
+    21300038: Text_37
+    21300040: Text_38
+    21300042: Text_39
+    21300044: Text_40
+    21300046: Text_41
+    21300048: Text_42
+    21300050: Text_43
+    21300052: Text_44
+    21300054: Text_45
+    21300056: Text_46
+    21300058: Text_47
+    21300060: Text_48
+    21300062: Text_49
+    21300064: Text_50
+    21300066: Text_51
+    21300068: Text_52
+    21300070: Text_53
+    21300072: Text_54
+    21300074: Text_55
+    21300076: Text_56
+    21300078: Text_57
+    21300080: Text_58
+    21300082: Text_59
+    21300084: Text_60
+    21300086: Text_61
+    21300088: Text_62
+    21300090: Text_63
+    21300092: Text_64
+    21300094: Text_65
+    21300096: Text_66
+    21300098: Text_67
+    21300100: Text_68
+    21300102: Text_69
+    21300104: Text_70
+    21300106: Text_71
+    21300108: Text_72
+    21300110: Text_73
+    21300112: Text_74
+    21300114: Text_75
+    21300116: Text_76
+    21300118: Text_77
+    21300120: Text_78
+    21300122: Text_79
+    21300124: Text_80
+    21300126: Text_81
+    21300128: Text_82
+    21300130: Text_83
+    21300132: Text_84
+    21300134: Text_85
+    21300136: Text_86
+    21300138: Text_87
+    21300140: Text_88
+    21300142: Text_89
+    21300144: Text_90
+    21300146: Text_101
+    21300148: Text_102
+    21300150: Text_103
+    21300152: Text_104
+    21300154: Text_105
+    21300156: Text_106
+    21300158: Text_107
+    21300160: Text_108
+    21300162: Text_109
+    21300164: Text_110
+    21300166: Text_111
+    21300168: Text_112
+    21300170: Text_113
+    21300172: Text_114
+    21300174: Text_115
+    21300176: Text_116
+    21300178: Text_117
+    21300180: Text_118
+    21300182: Text_119
+    21300184: Text_120
+    21300186: Text_121
+    21300188: Text_122
+    21300190: Text_123
+    21300192: Text_124
+    21300194: Text_125
+    21300196: Text_126
+    21300198: Text_127
+    21300200: Text_128
+    21300202: Text_129
+    21300204: Text_130
+    21300206: Text_131
+    21300208: Text_132
+    21300210: Text_133
+    21300212: Text_134
+    21300214: Text_135
+    21300216: Text_136
+    21300218: Text_137
+    21300220: Text_138
+    21300222: Text_139
+    21300224: Text_140
+    21300226: Text_141
+    21300228: Text_142
+    21300230: Text_143
+    21300232: Text_144
+    21300234: Text_145
+    21300236: Text_146
+    21300238: Text_147
+    21300240: Text_148
+    21300242: Text_149
+    21300244: Text_150
+    21300246: Text_151
+    21300248: Text_152
+    21300250: Text_153
+    21300252: Text_154
+    21300254: Text_155
+    21300256: Text_156
+    21300258: Text_157
+    21300260: Text_158
+    21300262: Text_159
+    21300264: Text_160
+    21300266: Text_161
+    21300268: Text_162
+    21300270: Text_163
+    21300272: Text_164
+    21300274: Text_165
+    21300276: Text_166
+    21300278: Text_167
+    21300280: Text_168
+    21300282: Text_169
+    21300284: Text_170
+    21300286: Text_171
+    21300288: Text_172
+    21300290: Text_173
+    21300292: Text_174
+    21300294: Text_175
+    21300296: Text_176
+    21300298: Text_177
+    21300300: Text_178
+    21300302: Text_179
+    21300304: Text_180
+    21300306: Text_181
+    21300308: Text_182
+    21300310: Text_183
+    21300312: Text_184
+    21300314: Text_185
+    21300316: Text_186
+    21300318: Text_187
+    21300320: Text_188
+    21300322: Text_189
+    21300324: Text_190
+    21300326: Text_191
+    21300328: Text_192
+    21300330: Text_193
+    21300332: Text_194
+    21300334: Text_195
+    21300336: Text_196
+    21300338: Text_197
+    21300340: Text_198
+    21300342: Text_199
+    21300344: Text_200
+    21300346: Text_201
+    21300348: Text_202
+    21300350: Text_203
+    21300352: Text_204
+    21300354: Text_205
+    21300356: Text_206
+    21300358: Text_207
+    21300360: Text_208
+    21300362: Text_209
+    21300364: Text_210
+    21300366: Text_211
+    21300368: Text_212
+    21300370: Text_213
+    21300372: Text_214
+    21300374: Text_215
+    21300376: Text_216
+    21300378: Text_217
+    21300380: Text_218
+    21300382: Text_219
+    21300384: Text_220
+    21300386: Text_221
+    21300388: Text_222
+    21300390: Text_223
+    21300392: Text_224
+    21300394: Text_225
+    21300396: Text_226
+    21300398: Text_227
+    21300400: Text_228
+    21300402: Text_229
+    21300404: Text_230
+    21300406: Text_231
+    21300408: Text_232
+    21300410: Text_233
+    21300412: Text_234
+    21300414: Text_235
+    21300416: Text_236
+    21300418: Text_237
+    21300420: Text_238
+    21300422: Text_239
+    21300424: Text_240
+    21300426: Text_241
+    21300428: Text_242
+    21300430: Text_243
+    21300432: Text_244
+    21300434: Text_245
+    21300436: Text_246
+    21300438: Text_247
+    21300440: Text_248
+    21300442: Text_249
+    21300444: Text_250
+    21300446: Text_251
+    21300448: Text_252
+    21300450: Text_253
+    21300452: Text_254
+    21300454: Text_255
+    21300456: Text_256
+    21300458: Text_257
+    21300460: Text_258
+    21300462: Text_259
+    21300464: Text_260
+    21300466: Text_261
+    21300468: Text_262
+    21300470: Text_263
+    21300472: Text_264
+    21300474: Text_265
+    21300476: Text_266
+    21300478: Text_267
+    21300480: Text_268
+    21300482: Text_269
+    21300484: Text_270
+    21300486: Text_271
+    21300488: Text_272
+    21300490: Text_273
+    21300492: Text_274
+    21300494: Text_275
+    21300496: Text_276
+    21300498: Text_277
+    21300500: Text_278
+    21300502: Text_279
+    21300504: Text_280
+    21300506: Text_281
+    21300508: Text_282
+    21300510: Text_283
+    21300512: Text_284
+    21300514: Text_285
+    21300516: Text_286
+    21300518: Text_287
+    21300520: Text_288
+    21300522: Text_289
+    21300524: Text_290
+    21300526: Text_291
+    21300528: Text_292
+    21300530: Text_293
+    21300532: Text_294
+    21300534: Text_295
+    21300536: Text_296
+    21300538: Text_297
+    21300540: Text_298
+    21300542: Text_299
+    21300544: Text_300
+    21300546: Text_301
+    21300548: Text_302
+    21300550: Text_303
+    21300552: Text_304
+    21300554: Text_305
+    21300556: Text_306
+    21300558: Text_307
+    21300560: Text_308
+    21300562: Text_309
+    21300564: Text_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Text_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 540
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 533
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 537
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 540
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 540
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 537
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 533
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 533
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 540
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 540
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 540
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 539
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 502
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 506
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 506
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 506
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 499
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 506
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 506
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 506
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 506
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 506
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_40
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 502
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_41
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 506
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 503
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_43
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 506
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_44
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 506
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 506
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 506
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 506
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 506
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 472
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 473
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 487
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_52
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 473
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_53
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 473
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_54
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 473
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_55
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 473
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 473
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_57
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 473
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 473
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 473
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_60
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 473
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_61
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 470
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 473
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_63
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 473
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 439
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 453
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 438
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_67
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 439
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_68
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 439
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_69
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 436
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_70
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 439
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_71
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 439
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 439
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 439
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_74
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 439
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 402
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_76
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 405
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 420
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_78
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 406
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_79
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 406
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_80
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 405
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_81
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 406
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_82
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 406
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_83
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 406
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_84
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 406
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_85
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 406
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_86
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 399
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 406
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_88
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 406
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 406
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 406
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_101
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 339
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_102
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 353
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_103
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 339
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_104
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 335
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_105
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 339
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_106
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 339
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_107
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 339
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_108
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 339
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_109
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 339
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 339
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_111
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 339
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_112
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 336
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_113
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 339
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_114
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 339
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_115
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 339
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_116
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 332
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_117
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 339
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 339
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_119
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 339
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_120
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 339
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_121
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 339
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_122
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 305
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_123
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 305
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_124
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 305
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_125
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 305
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_126
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 305
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_127
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 305
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_128
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 305
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_129
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 305
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_130
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 305
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_131
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 305
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_132
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 305
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_133
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 305
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_134
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 305
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_135
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 305
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_136
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 305
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_137
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 305
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_138
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 305
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_139
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 298
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_140
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 305
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_141
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 305
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_142
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 298
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_143
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 305
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_144
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 305
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_145
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 298
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_146
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 272
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_147
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 272
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_148
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 265
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_150
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_151
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 272
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_152
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 272
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_153
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 272
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_154
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 272
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_155
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 272
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_156
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 272
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_157
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 272
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_158
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 272
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_159
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 272
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_160
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_161
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 272
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_162
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_163
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_164
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 265
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_165
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 272
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_166
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 272
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_167
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 272
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_168
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 272
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_169
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 268
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_170
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_171
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 253
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_172
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 239
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_173
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 239
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_174
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 239
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_175
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 239
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_176
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 232
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_177
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 239
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_178
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 239
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_179
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 239
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_180
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 239
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_181
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 239
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_182
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 239
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_183
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 239
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_184
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 205
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_185
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 205
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_186
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 198
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_187
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 205
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_188
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 205
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_189
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 204
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_190
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 205
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_191
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 202
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_192
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 198
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_193
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 205
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_194
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 205
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_195
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 205
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_196
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 204
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_197
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 171
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_198
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 172
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_199
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 172
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_200
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 172
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_201
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 172
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_202
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 172
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_203
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 172
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_204
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 172
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_205
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 172
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_206
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 165
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_207
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 165
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_208
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 172
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_209
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 169
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_210
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 172
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_211
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 172
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_212
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 172
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_213
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 172
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_214
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 172
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_215
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 172
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_216
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 165
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_217
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 172
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_218
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 172
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_219
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 172
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_220
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 172
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_221
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 172
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_222
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 172
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_223
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 172
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_224
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 172
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_225
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 172
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_226
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 172
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_227
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 172
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_228
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 172
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_229
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 172
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_230
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 172
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_231
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 172
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_232
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 172
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_233
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 172
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_234
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 172
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_235
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 172
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_236
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 172
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_237
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 167
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_238
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 138
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_239
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_240
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 138
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_241
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 138
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_242
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_243
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_244
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 138
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_245
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 138
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_246
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 138
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_247
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 138
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_248
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 138
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_249
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 131
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_250
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_251
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 138
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_252
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 138
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_253
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 138
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_254
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 137
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_255
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 105
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_256
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 105
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_257
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 105
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_258
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 105
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_259
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 105
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_260
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 105
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_261
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 105
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_262
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 105
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_263
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 105
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_264
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 98
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_265
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 105
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_266
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 105
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_267
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 105
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_268
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 105
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_269
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 105
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_270
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 98
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_271
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 105
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_272
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 105
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_273
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 105
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_274
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 105
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_275
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 100
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_276
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_277
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_278
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_279
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 71
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_280
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 70
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_281
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 66
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_282
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_283
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_284
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_285
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 71
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_286
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 71
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_287
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 71
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_288
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 71
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_289
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 71
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_290
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 71
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_291
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 71
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_292
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 71
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_293
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 71
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_294
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_295
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 71
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_296
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 64
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_297
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 71
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_298
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 71
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_299
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 71
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_300
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_301
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 71
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_302
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 71
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_303
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 64
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_304
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 71
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_305
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 71
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_306
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 71
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_307
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 71
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_308
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 71
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_309
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 66
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Text_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 363
+        width: 147
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
